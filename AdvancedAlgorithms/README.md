@@ -85,7 +85,7 @@
   
   
 + [علی رضا رزمجو](https://alirezarazmhoo.github.io/AlirezaRazmjoo.github.io/)  
-  - [@alirezarazmhoo](https://github.com/alirezarazmhoo)
+  - [@alirezarazmhoo](https://github.com/alirezarazmhoo/PrimAlgorithm.git)
 
 + [سالار بهادر](https://salibhdr.github.io/resume/)  
   - [@SaliBhdr](https://github.com/SaliBhdr)
@@ -95,7 +95,7 @@
   - [@abbas1991h](https://github.com/abbas1991h)
 
 
-+ [علی ارجمند](https://arjmand08.github.io/main/)  
++ [علی ارجمند]()  
   - [@arjmand08](https://github.com/arjmand08)
 
 + [محمد گنجی](https://mrganji9.github.io)  
